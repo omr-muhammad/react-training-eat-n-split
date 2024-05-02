@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-training-eat-n-split/static/css/main.a4c28843.css",
+    "main.js": "/react-training-eat-n-split/static/js/main.879b6b79.js",
+    "index.html": "/react-training-eat-n-split/index.html",
+    "main.a4c28843.css.map": "/react-training-eat-n-split/static/css/main.a4c28843.css.map",
+    "main.879b6b79.js.map": "/react-training-eat-n-split/static/js/main.879b6b79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4c28843.css",
+    "static/js/main.879b6b79.js"
+  ]
+}
